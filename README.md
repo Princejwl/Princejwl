@@ -72,7 +72,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: prince.jaiswal0920@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn:https://www.linkedin.com/in/prince-jaiswal-759472296/ 
 - 🌐 GitHub: https://github.com/Princejwl
 
 ---
