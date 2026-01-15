@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- B.E. Computer Science student at **Sri Aurobindo Institute of Technology, Indore**
+- B.Tech Computer Science student at **Sri Aurobindo Institute of Technology, Indore**
 - Strong foundation in **Core Java, Advanced Java & OOP concepts**
 - Hands-on experience with **Spring Boot, REST APIs & MySQL**
 - Built **full-stack web applications** using React & Java
