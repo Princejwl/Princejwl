@@ -59,11 +59,13 @@
 - Deployed frontend on Netlify
 
 ### 🏢 Click & Cart – E-Commerce Website
+🔗 https://github.com/Princejwl/ecommers 
 - Product listing, cart, wishlist & authentication
 - Spring Boot backend with MySQL
 - Responsive React frontend
 
 ### 👨‍💼 Employee Management System
+🔗 https://github.com/Princejwl/Employee-Frontend 
 - CRUD operations using Spring Boot REST APIs
 - React frontend with search & filter features
 - Database integration with MySQL
