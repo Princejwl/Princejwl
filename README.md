@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prince Jaiswal
 
 🎓 Computer Science Engineering Student (2022 – 2026)  
-💻 Java Full Stack Developer | Backend Developer  
+💻 Aspiring Java Full Stack Developer | Backend Developer  
 📍 Indore, Madhya Pradesh, India  
 🚀 Open to internships & entry-level software roles  
 
